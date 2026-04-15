@@ -66,6 +66,7 @@ It is designed to be straightforward so that developers can add their own featur
 
 ---
 
-## Author
+## Socials
 
-* `feng_xingzhe_cn_.86`
+- Signal: `feng_xingzhe_cn_.86`
+- Discord: `feng_xingzhe`
