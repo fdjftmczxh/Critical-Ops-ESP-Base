@@ -70,9 +70,6 @@ https://github.com/fdjftmczxh/Critical-Ops-Dumps
 ```csharp
 
 // GameplayModule Class
-// Namespace: O2498FCB79
-// Token: 0x20000ed
-// TypeInfo Offset: 0x2f8d930
 public class OECFB7135E : Object
 	// Fields
 	private const System.Single OE5C974128; // 0x0
@@ -103,9 +100,6 @@ public class OECFB7135E : Object
 }
 
 // CameraSystem Class
-// Namespace: O2498FCB79
-// Token: 0x2000418
-// TypeInfo Offset: 0x2f8aa20
 public class O48D52ECEB : Object, IRenderable
 	// Fields
 	private readonly O2498FCB79.O5FE9603BE O4E643BBD2; // 0x10
@@ -144,9 +138,6 @@ public class O48D52ECEB : Object, IRenderable
 }
 
 // GameSystem Class
-// Namespace: O2498FCB79
-// Token: 0x20002d1
-// TypeInfo Offset: 0x2f8d8e0
 public class O6F692BC0C : Object
 	// Fields
 	private const System.Int32 OA591F1FA9; // 0x0
@@ -183,9 +174,6 @@ public class O6F692BC0C : Object
 }
 
 // Character Class
-// Namespace: O2498FCB79
-// Token: 0x200010c
-// TypeInfo Offset: 0x2f8aba8
 public abstract class O0F1FDA7F3 : MonoBehaviour, O38C51199E, O4500F555C, O5DDA40B96
 	// Fields
 	protected static O2498FCB79.O6CA963200 O6CA963200; // 0x0
@@ -237,9 +225,6 @@ public abstract class O0F1FDA7F3 : MonoBehaviour, O38C51199E, O4500F555C, O5DDA4
 }
 
 // CharacterModel Class
-// Namespace: O2498FCB79
-// Token: 0x20003f6
-// TypeInfo Offset: 0x2f8ac08
 public class O5EF6CBE7B : MonoBehaviour, IRenderable, OE30E1B733
 	// Fields
 	private const System.Single ODE8791810; // 0x0
